@@ -1,0 +1,11 @@
+/Users/brian/Desktop/SoftwareEngineering/myDockerPractise/myDockerPractise/bin/Debug/netcoreapp3.1/myDockerPractise
+/Users/brian/Desktop/SoftwareEngineering/myDockerPractise/myDockerPractise/bin/Debug/netcoreapp3.1/myDockerPractise.deps.json
+/Users/brian/Desktop/SoftwareEngineering/myDockerPractise/myDockerPractise/bin/Debug/netcoreapp3.1/myDockerPractise.runtimeconfig.json
+/Users/brian/Desktop/SoftwareEngineering/myDockerPractise/myDockerPractise/bin/Debug/netcoreapp3.1/myDockerPractise.runtimeconfig.dev.json
+/Users/brian/Desktop/SoftwareEngineering/myDockerPractise/myDockerPractise/bin/Debug/netcoreapp3.1/myDockerPractise.dll
+/Users/brian/Desktop/SoftwareEngineering/myDockerPractise/myDockerPractise/bin/Debug/netcoreapp3.1/myDockerPractise.pdb
+/Users/brian/Desktop/SoftwareEngineering/myDockerPractise/myDockerPractise/obj/Debug/netcoreapp3.1/myDockerPractise.csprojAssemblyReference.cache
+/Users/brian/Desktop/SoftwareEngineering/myDockerPractise/myDockerPractise/obj/Debug/netcoreapp3.1/myDockerPractise.AssemblyInfoInputs.cache
+/Users/brian/Desktop/SoftwareEngineering/myDockerPractise/myDockerPractise/obj/Debug/netcoreapp3.1/myDockerPractise.AssemblyInfo.cs
+/Users/brian/Desktop/SoftwareEngineering/myDockerPractise/myDockerPractise/obj/Debug/netcoreapp3.1/myDockerPractise.dll
+/Users/brian/Desktop/SoftwareEngineering/myDockerPractise/myDockerPractise/obj/Debug/netcoreapp3.1/myDockerPractise.pdb
